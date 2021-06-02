@@ -1,6 +1,6 @@
-#MC02 Technical Report
+# MC02 Technical Report
 
-##Datasets
+## Datasets
 Kaggle dataset:
 https://www.kaggle.com/dhruvildave/github-commit-messages-dataset
 For training (One hot labels):
@@ -11,7 +11,7 @@ Test Dataset (10k samples):
 https://drive.google.com/file/d/1F8dK1frQbWJWx1d07uJEa1X_xXBtwTPP/view?usp=sharing
 
 
-##Order of notebooks used
+## Order of notebooks used
 1. Data_Project_Adding_category_feature // preprocessing, adding more columns
 2. Data_Project  // actual EDA
 3. WordCloud 
