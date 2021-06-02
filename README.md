@@ -3,10 +3,13 @@
 ## Datasets
 Kaggle dataset:
 https://www.kaggle.com/dhruvildave/github-commit-messages-dataset
+
 For training (One hot labels):
 https://drive.google.com/file/d/1--pKwP_HX1f4HIr5DBigK8oCSGUwwNrR/view?usp=sharing
+
 Train Dataset (90k samples): 
 https://drive.google.com/file/d/1c4xKGqFbRFnrSqXsm1FQdAwbvqgiS2ZE/view?usp=sharing
+
 Test Dataset (10k samples): 
 https://drive.google.com/file/d/1F8dK1frQbWJWx1d07uJEa1X_xXBtwTPP/view?usp=sharing
 
