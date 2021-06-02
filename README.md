@@ -4,7 +4,7 @@
 Kaggle dataset:
 https://www.kaggle.com/dhruvildave/github-commit-messages-dataset
 
-For training (One hot labels):
+Kaggle datset + added features (One hot labels):
 https://drive.google.com/file/d/1--pKwP_HX1f4HIr5DBigK8oCSGUwwNrR/view?usp=sharing
 
 Train Dataset (90k samples): 
